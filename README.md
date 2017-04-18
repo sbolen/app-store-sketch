@@ -1,2 +1,6 @@
-# app-store-sketch
-If you hate preparing images and assets for the iOS App Store or Google Play store, you should hold on to your butt.
+# App Store Sketch template
+Are you:
+* A Sketch user
+* Someone who hates making screenshots/marketing materials for submission to the iOS or Google Play app stores?
+
+Hold on to your butts.
